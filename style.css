@@ -1,0 +1,86 @@
+.players{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    width: 80px;
+    height: 30pxpx;
+    justify-items: center;
+    gap: 5px;
+    
+}
+.jam{
+display: flex;
+justify-content: center;
+   
+}
+.player img{
+    width: 90px;
+    height: 90px;
+
+}
+.player{
+    border: 2px solid lightgray;
+    margin: 5px;
+    padding: 5%;
+    border-radius: 4px;
+}
+.tea, img{
+    width: 250px;
+    height: 200px;
+    margin: 5px;
+
+}
+.kathal{
+    display: flex;
+    height: 30px;
+    width: 40px;
+    margin: 5px;
+
+}
+.am{
+    display: flex;
+    justify-content: center;
+}
+.licu{
+    margin: 5px;
+    height: 200px;
+    width: 300px;
+    margin: 5px;
+    padding-left: 10%;
+    justify-content: center;
+}
+.water{
+    background-color: orangered;
+}
+.tormoj{
+    display: flex;
+    justify-content: center;
+    margin-top: 300px;
+    padding-left: 300px;
+}
+.goat{
+    background-color: royalblue;
+    width: 600px;
+    height: 300px;
+    text-align: center;
+    margin-left:500px;
+    display: flex;
+    
+    
+
+}
+#kola{
+    background-color: tomato;
+}
+#cow{
+    text-align: center;
+    margin-left: 220px;
+}
+.zero{
+    color: goldenrod;
+}
+
+
+  
+    
+    
+    
